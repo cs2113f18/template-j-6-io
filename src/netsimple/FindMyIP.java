@@ -1,4 +1,4 @@
-package netclient;
+package netsimple;
 
 // CS2113
 // T. Wood

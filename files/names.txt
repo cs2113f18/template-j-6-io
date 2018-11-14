@@ -1,37 +1,50 @@
-Nahit	Akarsu
-Jong	Bae
-Rupa	Bhashyam
-Benjamin	Carleton
-Nia	Christian
-Emily	Crane
-Ian	Davila
-Douglas	Dellolio
-Camille	Edwards
-Alexander	Ertel
-Randall	Fitzmorris
-Jessica	Fraser
-Malcolm	Goldiner
-Adam	Gray
-Grace	Huang
-Shawn	Huntzberry
-Shadman	Hussain
-abed	kassem
-Sean	Keefer
-Terrence	Lewis
-Elliot	Liskin
-Ellen	Louie
-Meryem	M'Hamdi
-Stephen	Monaghan
-Dara	Mussatayeva
-Liam	Nealon
-Marwa	Roshan
-Sarah	Rozman
-Rohan	Singh
-Timothy	Stamler
-Katherine	Stasaski
-Andrew	Sutardji
-Jason	Taylor
-Elsbeth	Turcan
-Christoph	von Braun
-Ehren	Wong
-Bjoern Cheng	Yi
+Abid
+Alex
+Alexander
+Alexandra
+Allison
+Arjun
+Benjamin
+Brandon
+Brian
+Brooke
+Clark
+David
+Dennis
+Guillaume
+Hannah
+Harmon
+Jacob
+Jaeseok
+Jiazhi
+Julia
+Karen
+Katelyn
+Kevin
+Kevin
+Larissa
+Launce
+Lily
+Lily
+Mariana
+Marie-laure
+Masen
+Megan
+Melody
+Michael
+Olaf
+Rachell
+Rebecca
+Ridoy
+Robert
+Ryan
+Sam
+Sarah
+Selin
+Stephen
+Sutton
+Tanner
+Tuhina
+Xingzhi
+Zachary
+Zachary
